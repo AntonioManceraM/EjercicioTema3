@@ -1,0 +1,14 @@
+Main{
+Coche micoche =  new Coche();
+micoche.añadirpuerta();
+System.out,printIn(michoche.puerta);
+
+class Coche{
+int puertas=0;
+void añadirpuerta() {
+this.puerta++
+}
+
+}
+
+}

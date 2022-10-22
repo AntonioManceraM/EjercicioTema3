@@ -1,0 +1,11 @@
+public class main{
+int resultado;
+resultado = suma(a:10, b:20, c:30)
+
+int suma (int a, int b, int c){
+retur a + b + c;
+}
+}
+
+
+
